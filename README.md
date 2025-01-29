@@ -19,3 +19,5 @@ Run `create_temporal_random_walks.py`
 
 #### Train graph-level embedding model
 Run `train_temporal_graph_model.py`
+
+Related codes are from https://github.com/suchanuchp/GraphERT
